@@ -7,6 +7,9 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@capacitor/cli": "^2.4.6",
+    "@capacitor/core": "^2.4.6",
+    "@capacitor/ios": "^2.4.6",
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
